@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1164
+slug  : the-prior-art-record
+seal  : acd315f2f30f624d4a9a313e222ddda7f73719d4b37d01578c11d71bf0e057cf
+prev  : eec79c9d51d4fd03b08832b79ded1d55443d1a4159586ee9864340cd51759b81
+link  : 21dd22fdb849dc54be5b9fea7ab5d224760feb7ef96593fa237692bc81fc9e1e
+head  : 21dd22fdb849dc54be5b9fea7ab5d224760feb7ef96593fa237692bc81fc9e1e
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

@@ -1,0 +1,18 @@
+{
+  "badge": "DLW-THE_PRIOR_ART_RECORD",
+  "name": "THE PRIOR-ART RECORD · PAR",
+  "universe": "THE FIRST AUTHOR",
+  "moniker": "⟦THE PRIOR-ART RECORD · PAR:the-prior-art-record:acd315⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "acd315f2f30f624d4a9a313e222ddda7f73719d4b37d01578c11d71bf0e057cf",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 1164,
+    "prev": "eec79c9d51d4fd03b08832b79ded1d55443d1a4159586ee9864340cd51759b81",
+    "link": "21dd22fdb849dc54be5b9fea7ab5d224760feb7ef96593fa237692bc81fc9e1e",
+    "head": "21dd22fdb849dc54be5b9fea7ab5d224760feb7ef96593fa237692bc81fc9e1e",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
+}
